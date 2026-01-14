@@ -1,0 +1,19 @@
+{
+  "name": "npm",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.11.3",
+    "vue": "^3.5.26"
+  },
+  "devDependencies": {
+    "@iconify-json/carbon": "^1.1.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest"
+  }
+}
