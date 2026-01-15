@@ -33,6 +33,8 @@ jobs:
 
       - name: Build
         run: npm run build
+        env:
+          SLIDEV_BASE: /2026-fwdays-rules-commands-skills-practice/
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

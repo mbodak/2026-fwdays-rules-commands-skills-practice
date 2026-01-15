@@ -2,6 +2,7 @@
 theme: seriph
 background: https://cover.sli.dev
 title: Правила, команди та навички для Agentic IDE
+base: /2026-fwdays-rules-commands-skills-practice/
 info: |
   ## Воркшоп: Правила, команди та навички для Agentic IDE
   
